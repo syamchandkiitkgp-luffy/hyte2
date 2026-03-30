@@ -1,0 +1,26 @@
+# Core app
+streamlit
+langgraph
+langchain
+
+# Data and retrieval
+pandas
+numpy
+tqdm
+neo4j
+chromadb
+google-genai
+requests
+
+# Observability
+arize-phoenix
+openinference-instrumentation-langchain
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+
+# Analysis utilities used by generated/evaluation scripts
+matplotlib
+seaborn
+scipy
+lifelines
+faker
